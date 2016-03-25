@@ -1,11 +1,11 @@
 # Site settings
 title: Eugene Cheung | Developer + Designer
 email: ey.cheung@outlook.com
-description: "A passionate developer with an eye for beautiful creations."
-baseurl: ""
-url: "http://echeung.me"
+description: A passionate developer with an eye for beautiful creations.
+baseurl: /v1
+url: http://echeung.me
 twitter_username: arkon
-github_username:  arkon
+github_username: arkon
 
 # Build settings
 markdown: kramdown
@@ -13,9 +13,9 @@ permalink: pretty
 
 # Enable asset processing
 assets:
-  prefix: "/v1"
+  baseurl: /v1/assets
   compress:
     css: true
     js: true
-  js_compressor:  uglifier
+  js_compressor: uglifier
   css_compressor: sass
