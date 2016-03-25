@@ -1,5 +1,4 @@
-arkon.github.io
-=================
+# arkon.github.io v1
 
 My old Github-hosted portfolio site, which can be viewed live [here](http://www.echeung.me/v1/).
 
