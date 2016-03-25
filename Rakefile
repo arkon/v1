@@ -7,7 +7,7 @@ require "bundler/setup"
 require "jekyll"
 
 
-GITHUB_REPONAME = "arkon/arkon.github.io"
+GITHUB_REPONAME = "arkon/v1"
 
 desc "Generate blog files"
 task :generate do

@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # Ruby version
-ruby '2.2.0'
+ruby '2.2.3'
 
 # Enable file watching in Windows. See http://jekyllrb.com/docs/windows/#auto-regeneration
 require 'rbconfig'
