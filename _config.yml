@@ -13,5 +13,9 @@ permalink: pretty
 
 # Enable asset processing
 assets:
+  prefix: "/v1"
+  compress:
+    css: true
+    js: true
   js_compressor:  uglifier
   css_compressor: sass
